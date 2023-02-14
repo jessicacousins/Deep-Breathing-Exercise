@@ -2,7 +2,7 @@
 var ball = document.getElementById("ball");
 var velocity = 13;
 var positionX = 0;
-positionY = 0;
+var positionY = 0;
 var reverse = false;
 
 function moveBall() {
